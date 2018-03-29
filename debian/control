@@ -11,7 +11,7 @@ Section: libraries
 Architecture: all
 XBSC-Group: DisplayCore
 XBSC-Subgroup: Drivers
-Depends: libdisplaycore-core, libdtwi-chipkit
+Depends: libdisplaycore-sh1106, libdtwi-chipkit
 Provides: SH1106-UL-DTWI.h
 Description: SH1106 DTWI library
  DTWI implementation of the SH1106 OLED driver
